@@ -12,7 +12,7 @@
     <img 
     align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img 
-    align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    align="center" alt="flask" src="https://icons8.com.br/icon/ewGOClUtmFX4/flask">
     <img 
     align="center" alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div><br/>
